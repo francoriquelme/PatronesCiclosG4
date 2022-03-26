@@ -1,7 +1,7 @@
 # ruby patron3.rb 15
 # 121212121212121
 
-num = ARGV[0].to-i
+num = ARGV[0].to_i
 
 num.times do |i|
     
